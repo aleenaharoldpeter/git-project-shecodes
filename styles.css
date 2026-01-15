@@ -6,3 +6,9 @@ h1 {
 a {
     text-decoration: none;
 }
+
+.btn-primary {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+}
